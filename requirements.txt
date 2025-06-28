@@ -1,0 +1,7 @@
+fastapi==0.115.9
+folium==0.20.0
+google-ai-generativelanguage==0.6.15
+googlemaps==4.10.0
+gradio==5.33.0
+pydantic==2.11.5
+uvicorn
