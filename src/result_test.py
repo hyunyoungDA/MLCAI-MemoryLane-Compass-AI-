@@ -1,4 +1,4 @@
-from src.api.maps_api import GoogleMapsAPI
+from src.api.google_maps_api import GoogleMapsAPI
 from src.algorithms.greedy import GreedySolver
 from src.algorithms.simulated_annealing import SimulatedAnnealingSolver
 from src.algorithms.genetic_algorithm import GeneticAlgorithmSolver

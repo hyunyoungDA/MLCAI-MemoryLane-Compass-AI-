@@ -34,6 +34,9 @@ class AppConfig:
     GA_GENERATIONS = 1000
     GA_MUTATION_RATE = 0.05
     GA_CROSSOVER_RATE = 0.8
+    
+    # hill_climbing
+    HC_MAX_ITERATIONS = 10000
 
     # 기타 설정
     DEFAULT_OPTIMIZATION_METRIC = "duration" # "distance" or "duration"
